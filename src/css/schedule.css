@@ -1,0 +1,9 @@
+.lessons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-box {
+  display: flex;
+  flex-wrap: wrap;
+}
